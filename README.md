@@ -4,6 +4,8 @@ This project is part of my Spider-ML onsites, built in a day. I found the hardes
 
 _The data and vectorstore directories needed are present in the 'lazy' release_
 
+run `frontend.py` for demo
+
 ![alt text](image-2.png)
 
 ### Ingested Data:
