@@ -18,6 +18,8 @@ Tooling without API keys:
 
 ![alt text](image-2.png)
 
+*Image says qwen but I used llama-3.3
+
 ### Ingested Data:
 - About Page:
     - Amenities
