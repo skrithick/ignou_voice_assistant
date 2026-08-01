@@ -2,6 +2,8 @@
 
 This project is part of my Spider-ML onsites, built in a day. I found the hardest part to be picking up langgraph, and scraping data from the "uniquely" designed website.
 
+_The data and vectorstore directories needed are present in the 'lazy' release_
+
 ![alt text](image-2.png)
 
 ### Ingested Data:
