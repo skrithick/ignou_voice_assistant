@@ -6,6 +6,16 @@ _The data and vectorstore directories needed are present in the 'lazy' release_
 
 run `frontend.py` for demo
 
+Required Tooling (API keys can be provided for evaluation):
+- VoyageAI Embeddings
+- Gemini
+- Groq
+- Firecrawl (not necessary)
+
+Tooling without API keys:
+- Edge-TTS
+- Speech Recognition - sr Library
+
 ![alt text](image-2.png)
 
 ### Ingested Data:
